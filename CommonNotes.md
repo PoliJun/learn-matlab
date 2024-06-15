@@ -11,6 +11,7 @@ y=(x-3).^2; % OK
 ## Search functions by clicking `fx`
 
 See doc of a function, example:
+
 ```m
 help min
 ```
